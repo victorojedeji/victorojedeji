@@ -29,11 +29,3 @@
 <a href= "https://github.com/victorojedeji?tab=repositories&q=&type=&language=css&sort=" > <img width ='32px' src ='https://img.icons8.com/color/344/css3.png'> </a>
 <a href= "" > <img width ='32px' src ='https://img.icons8.com/color/344/bootstrap.png'> </a>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height = "200px" align="left" src="https://github-readme-stats.vercel.app/api?username=victorojedeji&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img height = "200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorojedeji&theme=radical" />
-</a>
