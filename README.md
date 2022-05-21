@@ -27,5 +27,5 @@
 <a href="#"> <img width ='32px' src ='https://img.icons8.com/color/344/javascript--v1.png'> </a>
 <a href= "https://github.com/victorojedeji?tab=repositories&q=&type=&language=html&sort=" > <img width ='32px' src ='https://img.icons8.com/color/344/html-5--v1.png'> </a>
 <a href= "https://github.com/victorojedeji?tab=repositories&q=&type=&language=css&sort=" > <img width ='32px' src ='https://img.icons8.com/color/344/css3.png'> </a>
-<a href= "" > <img width ='32px' src ='https://img.icons8.com/color/344/bootstrap.png'> </a>
+
 
