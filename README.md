@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning and actively developing my tech skills
+- 🌱 I’m currently learning and actively developing my programming skill
 
 - 👯 I’m looking to collaborate on Projects
 
